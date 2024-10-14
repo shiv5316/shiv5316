@@ -30,15 +30,22 @@
 
 ###  **Achievements & Certifications:**
 
-- **📘 Completed Interview Preparation** | *GeeksforGeeks*  
-  *Mastered core Data Structures, Java programming, and low-level design concepts.*
+- **📘 Supervised Machine Learning: Regression and
+Classification** | *Coursera*  
+  *Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression*
 
-- **🌐 Web Development Bootcamp** | *Devtown*  
-  *Gained essential skills in HTML, CSS, and frameworks, fostering a collaborative learning experience.*  
-  *Certified by Google, Amazon, Microsoft, and Devtown.*
+- **🌐 Mastering Data Structure and Algorithm: Theory To Practice** |
+  *Gained essential skills in DSA, fostering a collaborative learning experience.*  
+  *Organized By Centre for Professional Enhancement*
 
 - **💬 Prompt Engineering for ChatGPT** | *Coursera, in collaboration with Vanderbilt University*  
   *Learned advanced prompt patterns and techniques for utilizing large language models effectively.*
+
+- **💻 SQL for Data Science** | *Great Learning*  
+  *Learned prominent SQL operations to perform Data Science tasks.*
+
+- **🖇 Become a Blockchain Developer** | *Linkedin Learning*  
+  *Top Skills covered:Cryptography,Blockchain,Ethereum.*
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv5316&show_icons=true&locale=en&layout=compact" alt="shiv5316" /></p>
 
