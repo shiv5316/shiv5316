@@ -1,4 +1,4 @@
-![logo](https://github.com/shiv5316/shiv5316/blob/main/Screenshot%20(462).png)
+![logo](https://github.com/shiv5316/shiv5316/blob/main/Blue%20and%20White%20Modern%20Graphic%20Designer%20Email%20Header.png)
 <h1 align="center">Hi 👋, I'm Shivansh Mishra</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
 
