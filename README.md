@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv5316&label=Profile%20views&color=0e75b6&style=flat" alt="shiv5316" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Data Visualisation**
+- 🌱 I’m currently learning **Cloud Computing & Big Data**
 
-- 💬 Ask me about **Ethical Hacking, AI, Machine Learning, Data Science**
+- 💬 Ask me about **Cloud Computing, AI, Machine Learning, Data Science and Big Data**
 
 - 📫 How to reach me **shivanshmishra209310@gmail.com**
 
