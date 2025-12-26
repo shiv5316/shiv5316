@@ -1,6 +1,6 @@
 ![logo](https://github.com/shiv5316/shiv5316/blob/main/White%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shivansh Mishra</h1>
-<h3 align="center">A passionate Data Science Student from India</h3>
+<h3 align="center">A passionate Data Science Student from LPU🎓</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
